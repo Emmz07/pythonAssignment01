@@ -1,4 +1,4 @@
-def calculator():
+def calculatorOG():
     # Get user input
     num1 = float(input("Enter the first number: "))
     num2 = float(input("Enter the second number: "))
@@ -24,4 +24,4 @@ def calculator():
         print("Invalid operation. Please enter +, -, *, or /.")
 
 # Run the calculator function
-calculator()
+calculatorOG()
